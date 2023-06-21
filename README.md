@@ -9,10 +9,10 @@ The solution consist of a heuristic algorithm (**Genetic Algorithm**), which wil
 ### Setup:
 In order to run this program you must follow the instruction below.
 
-- Set an ampl path in the ```config.py``` file.
-- Install required packages with ```python -m pip install -r requirements.txt```.
+- Set an ampl path in the ```config.py``` file
+- Install required packages with ```python -m pip install -r requirements.txt```
 
 Important: Note that an AMPL license is mandatory in order to find solutions for linear problems with more than 500 variables, 500 constraints and objectives (after presolve) for linear problems.
 
 
-Homework for the Operations Research course (2022).
+*Homework for the Operations Research course (2022).*
