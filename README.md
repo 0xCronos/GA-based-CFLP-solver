@@ -1,4 +1,4 @@
-# GA-based-CFLP-solver
+# GA based CFLP solver
 
 ## A software for optimal allocation of cost centers given a set of open centers using genetic algorithm.
 
