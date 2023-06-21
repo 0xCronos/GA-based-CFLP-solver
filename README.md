@@ -2,11 +2,11 @@
 
 ## A software for optimal allocation of cost centers given a set of open centers using genetic algorithm.
 
-### About:
+### About
 
 The solution consist of a heuristic algorithm (**Genetic Algorithm**), which will be in charge of searching for good combinations of centers, and an exact algorithm (**AMPL + Gurobi**) which will be in charge to find the optimal assignment given a set of open centers. The algorithm should have as termination criteria a maximum number of iterations, entered by the user.
 
-### Setup:
+### Setup
 In order to run this program you must follow the instruction below.
 
 - Set an ampl path in the ```config.py``` file
